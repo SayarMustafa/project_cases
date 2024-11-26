@@ -1,0 +1,24 @@
+26-11-2024 23:01:49.312 [pool-3-thread-1] INFO  steps.hook.Hooks - ---------------Test Automation has started------------
+26-11-2024 23:01:49.312 [pool-3-thread-2] INFO  steps.hook.Hooks - ---------------Test Automation has started------------
+26-11-2024 23:01:49.314 [pool-3-thread-1] INFO  steps.hook.Hooks - Test Scenario : Navbar functionality
+26-11-2024 23:01:49.314 [pool-3-thread-2] INFO  steps.hook.Hooks - Test Scenario : The user applies for a job on HR Page
+26-11-2024 23:01:49.315 [pool-3-thread-2] INFO  steps.hook.Hooks - Browser type ----> chrome
+26-11-2024 23:01:49.315 [pool-3-thread-1] INFO  steps.hook.Hooks - Browser type ----> chrome
+26-11-2024 23:02:07.091 [pool-3-thread-1] INFO  steps.hook.Hooks - ---------------Test Automation has started------------
+26-11-2024 23:02:07.096 [pool-3-thread-1] INFO  steps.hook.Hooks - Test Scenario : Search functionality
+26-11-2024 23:02:07.096 [pool-3-thread-1] INFO  steps.hook.Hooks - Browser type ----> chrome
+26-11-2024 23:02:08.252 [pool-3-thread-2] INFO  steps.hook.Hooks - ---------------Test Automation has started------------
+26-11-2024 23:02:08.252 [pool-3-thread-2] INFO  steps.hook.Hooks - Test Scenario : The user applies for a job on HR Page
+26-11-2024 23:02:08.252 [pool-3-thread-2] INFO  steps.hook.Hooks - Browser type ----> chrome
+26-11-2024 23:03:57.807 [pool-3-thread-2] INFO  steps.hook.Hooks - ---------------Test Automation has started------------
+26-11-2024 23:03:57.807 [pool-3-thread-1] INFO  steps.hook.Hooks - ---------------Test Automation has started------------
+26-11-2024 23:03:57.809 [pool-3-thread-1] INFO  steps.hook.Hooks - Test Scenario : Navbar functionality
+26-11-2024 23:03:57.809 [pool-3-thread-2] INFO  steps.hook.Hooks - Test Scenario : The user applies for a job on HR Page
+26-11-2024 23:03:57.810 [pool-3-thread-1] INFO  steps.hook.Hooks - Browser type ----> chrome
+26-11-2024 23:03:57.810 [pool-3-thread-2] INFO  steps.hook.Hooks - Browser type ----> chrome
+26-11-2024 23:04:01.994 [pool-3-thread-1] INFO  steps.hook.Hooks - ---------------Test Automation has started------------
+26-11-2024 23:04:01.998 [pool-3-thread-1] INFO  steps.hook.Hooks - Test Scenario : Search functionality
+26-11-2024 23:04:02.000 [pool-3-thread-1] INFO  steps.hook.Hooks - Browser type ----> chrome
+26-11-2024 23:04:02.004 [pool-3-thread-2] INFO  steps.hook.Hooks - ---------------Test Automation has started------------
+26-11-2024 23:04:02.006 [pool-3-thread-2] INFO  steps.hook.Hooks - Test Scenario : The user applies for a job on HR Page
+26-11-2024 23:04:02.006 [pool-3-thread-2] INFO  steps.hook.Hooks - Browser type ----> chrome
